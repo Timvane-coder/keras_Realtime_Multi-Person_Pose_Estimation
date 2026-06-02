@@ -1,6 +1,6 @@
 from google.colab import files
 
-os.chdir('videos')
+os.chdir('sample_videos')
 
 uploaded = files.upload()
 
